@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### 🚀 Live Demo and Links
 
 - Solution URL: [https://github.com/Ayanfe8/QR-Code-Component](https://github.com/Ayanfe8/QR-Code-Component)
-- Live Demo URL: You can view the live version of the project [Add live site URL here](https://your-live-site-url.com)
+- Live Demo URL: You can view the live version of the project [https://ayanfe8.github.io/QR-Code-Component/](https://ayanfe8.github.io/QR-Code-Component/)
 
 ## My process
 
@@ -44,7 +44,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### 📁 Folder Structure
 
-qr-code-component/ ├── index.html ├── css/style.css ├── images/qr-code-solution-screenshot.jpg │ └── README.md
+qr-code-component/
+├── index.html
+├── css/
+│ └── style.css
+├── images/
+│ ├── favicon.png
+│ ├── image-qr-code.png
+│ └── qr-code-solution-screenshot.jpg
+└── README.md
 
 ## Author
 
